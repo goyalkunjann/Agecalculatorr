@@ -14,7 +14,8 @@ This project is a straightforward age calculator that allows users to input thei
 
 ## Demo
 
-Include a screenshot or gif demonstrating your age calculator in action.
+![Age Calculator Demo](URL_TO_YOUR_IMAGE)
+
 
 ## Getting Started
 
